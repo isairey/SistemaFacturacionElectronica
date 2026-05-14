@@ -141,7 +141,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-factucom-sat/
+SistemaFacturacionElectronica/
 │
 ├── controllers/
 ├── models/
@@ -174,7 +174,7 @@ factucom-sat/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/factucom-sat.git
+git clone https://github.com/isairey/SistemaFacturacionElectronica.git
 ```
 
 ---
@@ -182,7 +182,7 @@ git clone https://github.com/usuario/factucom-sat.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd factucom-sat
+cd SistemaFacturacionElectronica
 ```
 
 ---
@@ -499,7 +499,7 @@ git push origin feature/nueva-funcionalidad
 
 <div align="center">
 
-## FactuCom SAT — API REST Empresarial
+## Isai Rey -- API REST Empresarial
 
 Sistema enfocado en facturación electrónica, administración comercial y automatización empresarial para México 🇲🇽
 
