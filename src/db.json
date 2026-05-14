@@ -1,0 +1,27 @@
+{
+	"sales": {
+		"id": {
+			"client": "",
+			"date": "",
+			"cashier": "",
+			"products": {
+				"id": {
+					"amt": 0,
+					"unit_price": 0,
+					"discount": 0
+				}
+			},
+			"note": ""
+		}
+	},
+	"products": {
+		"id": {
+			"name": "",
+			"brand": "",
+			"model": "",
+			"bought_price": 0,
+			"sell_price": 0,
+			"amt": 0
+		}
+	}
+}

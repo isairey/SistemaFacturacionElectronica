@@ -1,0 +1,42 @@
+{
+	"1": {
+		"name": "AUDIFONOS INALAMBRICOS 24H 120DB BLACK",
+		"brand": "MOTOROLA",
+		"model": "T1A12_000",
+		"bought_price": 64.5,
+		"sell_price": 180,
+		"amt": 16
+	},
+	"2": {
+		"name": "MEMORIA MICRO SD 64GB 100MB/S CLASE 10",
+		"brand": "KINGSTON",
+		"model": "SDCS2/64GB",
+		"bought_price": 34.6,
+		"sell_price": 45,
+		"amt": 32
+	},
+	"3": {
+		"name": "MOUSE INALAMBRICO 12M ERGONOMICO RECARGABLE BLACK",
+		"brand": "LOGITECH",
+		"model": "ab1000",
+		"bought_price": 22.5,
+		"sell_price": 30,
+		"amt": 15
+	},
+    "4": {
+		"name": "CARGADOR PORTATIL 4 CARGAS 20000MAH ACERO INOXIDABLE",
+		"brand": "SAMSUNG",
+		"model": "CaT1N_42A",
+		"bought_price": 72.3,
+		"sell_price": 110,
+		"amt": 8
+	},
+    "5": {
+		"name": "LAPTOP SILVER PROBOOK CORE I7 11GEN 2.80GHZ 16GB RAM 1TB HDD GRAFICOS XE",
+		"brand": "HP",
+		"model": "ProBook 440 G2",
+		"bought_price": 2990,
+		"sell_price": 4100,
+		"amt": 4
+	}
+}

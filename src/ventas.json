@@ -1,0 +1,59 @@
+{
+	"1": {
+		"client": "00000000",
+		"date": 1693031457199,
+		"cashier": "CHRISTOPHER",
+		"products": {
+			"1": {
+				"amt": 2,
+				"unit_price": 180,
+				"discount": 10
+			}
+		},
+		"note": "SN 3133"
+	},
+	"2": {
+		"client": "00000000",
+		"date": 1693031457199,
+		"cashier": "CHRISTOPHER",
+		"produ1693031457199cts": {
+			"3": {
+				"amt": 2,
+				"unit_price": 180,
+				"discount": 10
+			},
+            "5": {
+                "amt": 1,
+                "unit_price": 4100,
+                "discount": 100
+            }
+		},
+		"note": "AUDIFONOS SN 3134\nLAPTOP SN E4E65B1D-F6BF-443B-8672-78BFD9ECEAA5"
+	},
+    "3": {
+		"client": "00000000",
+		"date": ,
+		"cashier": "CHRISTOPHER",
+		"products": {
+			"4": {
+				"amt": 2,
+				"unit_price": 110,
+				"discount": 0
+			}
+		},
+		"note": "SN 5913"
+	},
+    "4": {
+		"client": "00000000",
+		"date": 1693031457199,
+		"cashier": "CHRISTOPHER",
+		"products": {
+			"2": {
+				"amt": 4,
+				"unit_price": 45,
+				"discount": 5
+			}
+		},
+		"note": ""
+	}
+}
